@@ -14,3 +14,4 @@ Créditos:
 - Un agradecimiento especial a la gente que espera pacientemente los mapas y no empieza un raid sólo por una cosa.
 
 - Unos agradecimientos especiales a: DeliriumMaps, Yan Xishan (Linbot) y al Equipo de Gigamap/Examap, que si bien no trabajaron directamente en el mapa, sus fuentes e información han sido realmente buenas para los reworks de China, Filipinas y otras partes del mundo. 
+- Un agradecimiento a los devs de Mappa Mundi por sus fuentes e información, sin ellos la frontera de Mongolia y otras cosas no hubieran sido posible. (No trabajaron directamente en el mapa de Terra Belli, pero sí ayudaron en los reworks indirectamente.)
