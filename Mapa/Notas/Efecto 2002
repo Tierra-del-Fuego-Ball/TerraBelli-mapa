@@ -1,0 +1,23 @@
+Matiz y Saturación
+  Matiz: 0
+  Saturación: 120
+  Iluminación: -20
+(Ya añadido a la capa editable)
+
+Viñeta
+  Radio: 0'75
+  Densidad: 1
+
+Resplandor
+  Radio: 6
+  Brillo: -20
+  Contraste: 10
+
+Brillo y Contraste
+  Brillo: -15
+  Contraste: 25
+
+- Previo GFX con 'diagonal lines' de 1 de grosor en horizontal y en vertical, color negro. Transparencia 60 (Ya añadido).
+	Led (capa ya existente).
+- Previo GFX con 'diagonal lines' de 30 de grosor en vertical, color blanco. Cristalizado. Transparencia 5 (Ya añadido).
+	Turbulencia de imagen (capa ya existente).
